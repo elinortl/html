@@ -89,3 +89,9 @@ h1 {
 
         cursor: pointer;
     }
+	
+@media (max-width: 1215px)
+	{
+		aside{display:none;}
+		footer{display:none;}
+	}
