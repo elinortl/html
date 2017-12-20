@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(206, 214, 202);
+}
+h1 {
+    background-color: #000; 
+    color: #fff;
+    text-align: center; 
+}
+
+img { border:#fff solid 10px;
+
+
+    margin: 11px;
+    margin-left: 12.7px;
+}
+
+div :hover {
+    transform: rotateY(30deg);
+}
+
+footer a{
+    color: white;
+
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+    width: 100%;
+}
+footer{
+
+    border: #000 solid 2px;
+    background-color: #000;
+}
+
+footer a:hover{
+
+    color: #000;
+    background-color:#fff;
+    transition-duration: 2s;
+    width: 96.4%;
+
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
